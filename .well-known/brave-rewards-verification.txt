@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: lindnerju.github.io
+Token: b3c3bb522b16f221582ac71adaf9820b714bbaf55360af6a79f82164298aec35
